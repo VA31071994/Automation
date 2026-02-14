@@ -1,0 +1,17 @@
+# Gitignore for Automation project
+node_modules/
+
+.DS_Store
+*.log
+.env
+.vscode/
+bin/
+target/
+out/
+build/
+dist/
+.idea/
+*.class
+*.pyc
+*.pyo
+__pycache__/

@@ -1,0 +1,13 @@
+--- GIT STATUS --- 
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+--- GIT REMOTE --- 
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+--- GIT LOG --- 
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+--- GIT PUSH TEST --- 
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+DONE 

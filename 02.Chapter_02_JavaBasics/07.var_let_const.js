@@ -59,5 +59,3 @@ console.log(a); // 20
 
 // var nn = "Pramod";
 // let nn = "Pramod";   // Error: Identifier 'nn' has already been declared
-
-

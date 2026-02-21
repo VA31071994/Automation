@@ -4,8 +4,8 @@ var a = 10;
 a = 20;
 console.log(a);
 
-// Variable name. = Identifier - a (name which is given to the container )
-// Variable value =  Literal -> 10, 20, "Hello", true, false, null, undefined
+// Variable name = Identifier - a (name which is given to the container)
+// Variable value = Literal -> 10, 20, "Hello", true, false, null, undefined
 // = -> Operator
 
 var a1 = 10;
